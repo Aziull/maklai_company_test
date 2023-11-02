@@ -56,6 +56,11 @@ h1 {
     color: white;
 }
 
+.form button:hover {
+    cursor: pointer;
+    background-color: rgb(15, 68, 153);
+}
+
 #results {
     display: grid;
     gap: 10px;
