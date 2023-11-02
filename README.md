@@ -1,4 +1,4 @@
-Welcome to the documentation for your project. This README provides essential information on how to run and build this project.
+Welcome to the documentation for this project. This README provides essential information on how to run and build this project.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
