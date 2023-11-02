@@ -95,8 +95,14 @@ a {
 
 @media(max-width: 547px) {
     .form {
-        display: flex;
-        flex-direction: column;
-        align-items: stretch;
+        display: block;
+    }
+    
+    .item {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .item:last-child {
+        margin-bottom: 0;
     }
 }
