@@ -19,7 +19,7 @@ Before you begin, make sure you have Node.js and npm (Node Package Manager) inst
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git](https://github.com/Aziull/maklai_company_test.git)https://github.com/Aziull/maklai_company_test.git
+   git clone https://github.com/Aziull/maklai_company_test.git
 
 2. Change to the project's directory:
 
