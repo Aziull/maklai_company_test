@@ -43,6 +43,10 @@ h1 {
 
 .form input,
 .form button {
+    width: 100%;
+
+    box-sizing: border-box;
+    
     height: 35px;
     border-width: 0;
 }
@@ -99,6 +103,7 @@ a {
     }
     
     .item {
+        display: block;
         width: 100%;
         margin-bottom: 20px;
     }
